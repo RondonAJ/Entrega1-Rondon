@@ -1,0 +1,11 @@
+button.Button {
+    height: -moz-fit-content;
+    height: fit-content;
+    margin: 1.7em;
+    background: salmon;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    font-weight: 900;
+    font-size: 15px;
+}

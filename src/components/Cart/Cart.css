@@ -1,0 +1,44 @@
+.itemCarrito {
+    display: flex;
+    margin-right: 20%;
+    margin-bottom: 10px;
+    vertical-align: top;
+    background: cornsilk;
+    margin-top: 20px;
+    border-radius: 10px;
+    width: 60%;
+    margin-left: 20%;
+}
+  .itemCarrito h4, .itemCarrito p, .itemCarrito button {
+    margin: 25px;
+  }
+  .itemCarrito p {
+    font-size: 14px;
+  }
+  .itemCarrito button {
+    display: block;
+    margin-top: 10px;
+  }
+
+  button.btn.btn-danger.botonEliminar {
+    background: salmon;
+    border: none;
+    border-radius: 5px;
+    display: inline;
+    margin: 1.25em;
+    height: 30px;
+}
+
+button.Option-footer {
+    text-decoration: none;
+    background: salmon;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    margin-top: 25px;
+    border: none;
+    height: 34px;
+    margin-right: 10px;
+    margin-top: 7px;
+    font-size: 16px;
+}

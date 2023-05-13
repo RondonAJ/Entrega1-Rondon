@@ -1,0 +1,16 @@
+label.Label {
+    width: 30%;
+    display: grid;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+
+button.Option-footer {
+    text-decoration: none;
+    background: salmon;
+    color: white;
+    padding: 7px;
+    border-radius: 5px;
+    margin-top: 25px;
+    border: none;
+}

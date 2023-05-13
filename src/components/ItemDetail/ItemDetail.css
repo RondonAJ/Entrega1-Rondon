@@ -22,3 +22,12 @@ button.Button {
 header.Header {
     background: bisque;
 }
+
+@media only screen and (max-width: 768px) {
+    article.CardItem {
+        width: 100%;
+        display: block;
+        padding: 3%;
+        background: rgb(255, 255, 255);
+    }
+}
